@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zipline Custom User Avatars\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-25 16:29+0100\n"
+"PO-Revision-Date: 2021-05-25 16:30+0100\n"
+"Last-Translator: ProfilePress <https://profilepress.net/>\n"
+"Language-Team: ProfilePress <https://profilepress.net/>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-zl-custom-user-avatars-admin.php:107
+#: includes/class-zl-custom-user-avatars-admin.php:265
+#: includes/class-zl-custom-user-avatars-widget.php:14
+#: includes/tinymce/window.php:18 includes/zlcua-options-page.php:39
+msgid "Zipline Custom User Avatars"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:107
+#: includes/class-zl-custom-user-avatars-admin.php:141
+#: includes/zlcua-media-page.php:83
+msgid "Avatars"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:108
+#: includes/class-zl-custom-user-avatars-admin.php:299
+#: includes/zlcua-options-page.php:84
+msgid "Settings"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:109
+msgid "Library"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:227
+msgid "Mystery Man"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:228
+msgid "Blank"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:229
+msgid "Gravatar Logo"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:230
+msgid "Identicon (Generated)"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:231
+msgid "Wavatar (Generated)"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:232
+msgid "MonsterID (Generated)"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:233
+msgid "Retro (Generated)"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:266
+#: includes/class-zl-custom-user-avatars.php:171
+#: includes/class-zl-custom-user-avatars.php:173
+msgid "Choose Image"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:266
+#: includes/class-zl-custom-user-avatars-admin.php:387
+#: includes/zlcua-options-page.php:223 includes/zlcua-options-page.php:227
+msgid "Default Avatar"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:267
+msgid "Remove"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:267
+#: includes/class-zl-custom-user-avatars.php:228
+msgid "Undo"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:314
+msgid "Support Forums"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-admin.php:327
+#: includes/class-zl-custom-user-avatars-admin.php:384
+#: includes/tinymce/window.php:175 includes/zlcua-functions.php:94
+#: includes/zlcua-functions.php:110 includes/zlcua-functions.php:118
+#: includes/zlcua-functions.php:197
+msgid "Profile Picture"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-functions.php:411
+#: includes/class-zl-custom-user-avatars-functions.php:576
+msgid "Avatar"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:148
+#: includes/class-zl-custom-user-avatars-list-table.php:424
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:177
+msgid "No media attachments found."
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:190
+msgid "Author"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:264
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:285
+#: includes/class-zl-custom-user-avatars-list-table.php:307
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:341
+msgid "Unpublished"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:347
+#, php-format
+msgid "%s from now"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:349
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:351
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:414
+msgid "Edit"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:418
+msgid "Restore"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:420
+msgid "Trash"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:429
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-list-table.php:429
+msgid "View"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-shortcode.php:229
+msgid "Profile updated."
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-shortcode.php:259
+msgid "Update Profile"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-widget.php:13
+msgid "Insert"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-widget.php:13
+msgid "[avatar_upload]"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-widget.php:74
+msgid "Title:"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-widget.php:83
+msgid "Description:"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars-widget.php:96
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:183
+#: includes/class-zl-custom-user-avatars.php:184
+#: includes/tinymce/window.php:177 includes/tinymce/window.php:295
+msgid "Upload"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:191
+#: includes/zlcua-options-page.php:141
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:195
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:196
+msgid "<code>jpg jpeg png gif</code>"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:208
+#: includes/tinymce/window.php:208
+msgid "Original Size"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:215
+#: includes/tinymce/window.php:214
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:222
+msgid "Remove Image"
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:296
+msgid "This file is not an image. Please try another."
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:300
+#: includes/class-zl-custom-user-avatars.php:326
+msgid "Memory exceeded. Please try another smaller file."
+msgstr ""
+
+#: includes/class-zl-custom-user-avatars.php:304
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+
+#: includes/tinymce/window.php:184
+msgid "User Name"
+msgstr ""
+
+#: includes/tinymce/window.php:202 includes/tinymce/window.php:223
+msgid "Size"
+msgstr ""
+
+#: includes/tinymce/window.php:210
+msgid "Large"
+msgstr ""
+
+#: includes/tinymce/window.php:212
+msgid "Medium"
+msgstr ""
+
+#: includes/tinymce/window.php:216
+msgid "Custom"
+msgstr ""
+
+#: includes/tinymce/window.php:231
+msgid "Alignment"
+msgstr ""
+
+#: includes/tinymce/window.php:237
+msgid "Center"
+msgstr ""
+
+#: includes/tinymce/window.php:239
+msgid "Left"
+msgstr ""
+
+#: includes/tinymce/window.php:241
+msgid "Right"
+msgstr ""
+
+#: includes/tinymce/window.php:247
+msgid "Link To"
+msgstr ""
+
+#: includes/tinymce/window.php:253
+msgid "Image File"
+msgstr ""
+
+#: includes/tinymce/window.php:255
+msgid "Attachment Page"
+msgstr ""
+
+#: includes/tinymce/window.php:257
+msgid "Custom URL"
+msgstr ""
+
+#: includes/tinymce/window.php:264
+msgid "URL"
+msgstr ""
+
+#: includes/tinymce/window.php:275
+msgid "Open link in a new window"
+msgstr ""
+
+#: includes/tinymce/window.php:280
+msgid "Caption"
+msgstr ""
+
+#: includes/tinymce/window.php:287 includes/tinymce/window.php:303
+msgid "Insert into Post"
+msgstr ""
+
+#: includes/zlcua-functions.php:113 includes/zlcua-functions.php:122
+msgid "Image"
+msgstr ""
+
+#: includes/zlcua-media-page.php:34
+msgid "You do not have permission to upload files."
+msgstr ""
+
+#: includes/zlcua-media-page.php:60
+msgid "You are not allowed to delete this post."
+msgstr ""
+
+#: includes/zlcua-media-page.php:63
+msgid "Error in deleting."
+msgstr ""
+
+#: includes/zlcua-media-page.php:85
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/zlcua-media-page.php:104
+msgid "Search"
+msgstr ""
+
+#: includes/zlcua-options-page.php:92
+msgid "Add avatar button to Visual Editor"
+msgstr ""
+
+#: includes/zlcua-options-page.php:98
+msgid "Allow Contributors & Subscribers to upload avatars"
+msgstr ""
+
+#: includes/zlcua-options-page.php:104
+msgid "Disable Gravatar and use only local avatars"
+msgstr ""
+
+#: includes/zlcua-options-page.php:131 includes/zlcua-options-page.php:136
+msgid "Upload Size Limit"
+msgstr ""
+
+#: includes/zlcua-options-page.php:131 includes/zlcua-options-page.php:136
+msgid "(only for Contributors & Subscribers)"
+msgstr ""
+
+#: includes/zlcua-options-page.php:139
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr ""
+
+#: includes/zlcua-options-page.php:146
+msgid "Allow users to edit avatars"
+msgstr ""
+
+#: includes/zlcua-options-page.php:152
+msgid "Resize avatars on upload"
+msgstr ""
+
+#: includes/zlcua-options-page.php:156
+msgid "Width"
+msgstr ""
+
+#: includes/zlcua-options-page.php:158
+msgid "Height"
+msgstr ""
+
+#: includes/zlcua-options-page.php:162
+msgid "Crop avatars to exact dimensions"
+msgstr ""
+
+#: includes/zlcua-options-page.php:184 includes/zlcua-options-page.php:188
+msgid "Avatar Display"
+msgstr ""
+
+#: includes/zlcua-options-page.php:193
+msgid "Show Avatars"
+msgstr ""
+
+#: includes/zlcua-options-page.php:201 includes/zlcua-options-page.php:205
+msgid "Maximum Rating"
+msgstr ""
+
+#: includes/zlcua-options-page.php:208
+msgid "G &#8212; Suitable for all audiences"
+msgstr ""
+
+#: includes/zlcua-options-page.php:209
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr ""
+
+#: includes/zlcua-options-page.php:210
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr ""
+
+#: includes/zlcua-options-page.php:211
+msgid "X &#8212; Even more mature than above"
+msgstr ""
+
+#: includes/zlcua-options-page.php:229
+msgid ""
+"For users without a custom avatar of their own, you can either display a "
+"generic logo or a generated one based on their e-mail address."
+msgstr ""
